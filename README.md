@@ -52,24 +52,24 @@ The below images are visualized from the data,
 ### Population projection for every 5 years.
 ![every_5years](https://github.com/HarishankarMurugan/California-population-projection/assets/124061758/5b4152fb-419d-4c3d-9d0a-7013877900f1)
 
-### Los Angles county with most population in 2022.
+### Los Angles county with most population in 2010.
 
 ![1](https://github.com/HarishankarMurugan/California-population-projection/assets/124061758/2b4eac5c-38fc-48ac-850c-596dcbfd6234)
 
-### San Diego county with 2nd most population in 2022.
+### San Diego county with 2nd most population in 2010.
 
 ![2](https://github.com/HarishankarMurugan/California-population-projection/assets/124061758/d5658378-1a8f-43b1-894b-385bf9e088ff)
 
 
-### Orange county with 3rd most population in 2022.
+### Orange county with 3rd most population in 2010.
 
 ![3](https://github.com/HarishankarMurugan/California-population-projection/assets/124061758/23614cbf-9fea-4c1f-82fc-7976efe0d63d)
 
-### Alpine county with least population in 2022.
+### Alpine county with least population in 2010.
 
 ![least](https://github.com/HarishankarMurugan/California-population-projection/assets/124061758/200ef6e6-4f9e-4fc0-b97d-58e831a37b1a)
 
-### Population based on race in 2022.
+### Population based on race in 2010.
 
 ![race_pop](https://github.com/HarishankarMurugan/California-population-projection/assets/124061758/f16f57d5-53f1-41cd-af5f-a977d1d48761)
 
