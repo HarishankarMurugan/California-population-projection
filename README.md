@@ -1,9 +1,9 @@
 # California-population-projection
 
-• Before getting into this project, first of we have to know about some details of California.
-• California was located in the west coast of America.
-• There are totally 58 counties in California.
-• As per the given dataset from the csv file and online search, the total population of the California in 2010 is 37Millions approx.
+•Before getting into this project, first of we have to know about some details of California.
+•California was located in the west coast of America.
+•There are totally 58 counties in California.
+•As per the given dataset from the csv file and online search, the total population of the California in 2010 is 37Millions approx.
 
 ### Calculated from the dataset.
 ![image](https://github.com/HarishankarMurugan/California-population-projection/assets/124061758/73bc454f-3261-43d8-88b8-194152f161a3)
@@ -13,9 +13,9 @@
 
 ## Source of datasets:
 
-• Datasets Source from The Californian Open data portal.
-• Now, we are getting the datasets for the from [Californian official website]([https://pages.github.com/](https://dof.ca.gov/forecasting/demographics/projections/)) as CSV file!
-• In that file we have these are columns
+•Datasets Source from The Californian Open data portal.
+•Now, we are getting the datasets for the from [Californian official website]([https://pages.github.com/](https://dof.ca.gov/forecasting/demographics/projections/)) as CSV file!
+•In that file we have these are columns
 
     1. County code
     2. County Name
