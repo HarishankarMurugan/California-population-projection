@@ -1,9 +1,9 @@
 # California-population-projection
 
-•Before getting into this project, first of we have to know about some details of California.
-•California was located in the west coast of America.
-•There are totally 58 counties in California.
-•As per the given dataset from the csv file and online search, the total population of the California in 2010 is 37Millions approx.
+-Before getting into this project, first of we have to know about some details of California.
+-California was located in the west coast of America.
+-There are totally 58 counties in California.
+-As per the given dataset from the csv file and online search, the total population of the California in 2010 is 37Millions approx.
 
 ### Calculated from the dataset.
 ![image](https://github.com/HarishankarMurugan/California-population-projection/assets/124061758/73bc454f-3261-43d8-88b8-194152f161a3)
@@ -14,8 +14,8 @@
 ## Source of datasets:
 
 •Datasets Source from The Californian Open data portal.
-•Now, we are getting the datasets for the from [Californian official website]([https://pages.github.com/](https://dof.ca.gov/forecasting/demographics/projections/)) as CSV file!
-•In that file we have these are columns
+-Now, we are getting the datasets for the from [Californian official website]([https://pages.github.com/](https://dof.ca.gov/forecasting/demographics/projections/)) as CSV file!
+-In that file we have these are columns
 
     1. County code
     2. County Name
@@ -26,16 +26,16 @@
     7. Age
     8. Population
     
-• We are going to do small visualisation from these.
+-We are going to do small visualisation from these.
 
 ## Importing the datasets from csv to SQL : 
 
-• So, we are going to download the respective excel.
-• In MySQL,
-      o We are creating a separate database called ca_population.
-      o Then creating a table as pop_proj with those respective columns
-      o And importing into the respective database.
-• After that, I’m just creating some view tables. For example: 
+-So, we are going to download the respective excel.
+-In MySQL,
+      -We are creating a separate database called ca_population.
+      -Then creating a table as pop_proj with those respective columns
+      -And importing into the respective database.
+-After that, I’m just creating some view tables. For example: 
 
 ### The below image is the example of view table,
 
@@ -43,11 +43,11 @@
 
 ## Visualizing the data in tableau :
 
-• By connecting the respective database server to the tableau. We can easily able to visualize the data based on the needs.
+By connecting the respective database server to the tableau. We can easily able to visualize the data based on the needs.
 
 ## Visualized data images:
 
-• The below images are visualized from the data,
+The below images are visualized from the data,
 
 ### Population projection for every 5 years.
 ![every_5years](https://github.com/HarishankarMurugan/California-population-projection/assets/124061758/5b4152fb-419d-4c3d-9d0a-7013877900f1)
