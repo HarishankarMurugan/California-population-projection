@@ -14,8 +14,9 @@
 ## Source of datasets:
 
 • Datasets Source from The Californian Open data portal.
-• Now, we are getting the datasets for the from Californian official website as CSV file!
+• Now, we are getting the datasets for the from [Californian official website]([https://pages.github.com/](https://dof.ca.gov/forecasting/demographics/projections/)) as CSV file!
 • In that file we have these are columns
+
     1. County code
     2. County Name
     3. Year
@@ -24,6 +25,7 @@
     6. Gender
     7. Age
     8. Population
+    
 • We are going to do small visualisation from these.
 
 ## Importing the datasets from csv to SQL : 
